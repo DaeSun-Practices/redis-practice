@@ -1,0 +1,1 @@
+ZREMRANGEBYSCORE sorted -inf 20
